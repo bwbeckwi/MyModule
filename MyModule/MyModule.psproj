@@ -1,0 +1,12 @@
+﻿<Project>
+  <Version>1.1</Version>
+  <FileID>3b16a44e-5593-47ca-a530-45ad4e1d0b15</FileID>
+  <ProjectType>1</ProjectType>
+  <Folders />
+  <Files>
+    <File ReferenceName="" Build="2">MyModule.psd1</File>
+    <File ReferenceName="" Build="0">MyModule.psm1</File>
+  </Files>
+  <StartupScript>
+  </StartupScript>
+</Project>
